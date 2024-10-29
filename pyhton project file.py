@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-data = pd.read_csv("sales_data.csv")
+data = pd.read_csv("C:\Users\LOQ\Downloads\Restaurant_and_Market_Health_Inspections.csv")
 
 plt.figure(figsize=(10, 6))
 sns.lineplot(x='date', y='sales', data=data)
