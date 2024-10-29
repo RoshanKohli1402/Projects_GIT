@@ -4,7 +4,7 @@ AI-Chef Assistant is a predictive tool designed for small and medium-sized resta
 Instructions
 Clone the Repository
 
-git clone https://github.com/yourusername/AI-Chef-Assistant.git
+git clone https://github.com/RoshanKohli1402/Git_PR.git
 Install Requirements
 Make sure you have Python installed, then run:
 
