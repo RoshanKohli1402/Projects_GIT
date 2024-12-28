@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from statsmodels.tsa.arima.model import ARIMA
 
-
 # Step 1: Prototype Selection (Documentation)
 # - Feasibility: Implementation achievable using ARIMA, LSTM, and Prophet models.
 # - Viability: Long-term demand for AI solutions in inventory management.
